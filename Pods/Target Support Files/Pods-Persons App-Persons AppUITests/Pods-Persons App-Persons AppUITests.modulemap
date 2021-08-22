@@ -1,0 +1,6 @@
+framework module Pods_Persons_App_Persons_AppUITests {
+  umbrella header "Pods-Persons App-Persons AppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
